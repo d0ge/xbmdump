@@ -9,4 +9,4 @@ ReadXBMImage in coders/xbm.c in ImageMagick before 7.0.8-9 (https://github.com/I
 
    then you're lucky.
 4. Download and save the preview as `output.ext`.
-5. Run `./xbmdump recover 128x128 output.ext`
+5. Run `./xbmdump recover output.ext`
